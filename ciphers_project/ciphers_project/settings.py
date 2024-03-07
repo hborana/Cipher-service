@@ -25,12 +25,12 @@ SECRET_KEY = 'django-insecure-exva0e7wwjgrc+@%rnk2=!aj$=npr)@nc%^dsq(4o6#e@c#i^$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ciphers-service-2y4l.onrender.com','ciphers-service-latest-ai8b.onrender.com']
+ALLOWED_HOSTS = ['ciphers-service-latest-ai8b.onrender.com']
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5500",  # Add specific origins as needed
     "http://localhost:3000",  # Example of another origin
-    "https://blackhat955.github.io",
+    "https://hborana.github.io",
    # Allow requests from any HTTPS origin
 ]
 
